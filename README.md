@@ -8,7 +8,7 @@ Fraudulent job postings pose significant risks to job seekers and undermine the 
 
 ## Repository Contents
 - `Paper/`: Contains the final version of the research paper in PDF format.
-- `Datasets/`: Directory with the Employment Scam Aegean Dataset (EMSCAD) used in this study. All personal information has been anonymized to comply with GDPR regulations.
+- `Datasets/`: Directory with the Employment Scam Aegean Dataset (EMSCAD) used in this study.
 - `Code/`: Contains notebooks used for data analysis, model training, and evaluation.
 
 ## Requirements
